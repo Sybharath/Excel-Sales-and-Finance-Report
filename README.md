@@ -2,7 +2,7 @@
 
 Reports created for AtliQ hardware as part of CodeBasics Bootcamp 2.0, Excel : Mother of Business Intelligence Course.
 
-## Sales Report  _[Sales Report](https://github.com/Sybharath/Excel-Sales-and-Finance-Report/blob/main/Sales_Report.pdf)_
+## _[Sales Report](https://github.com/Sybharath/Excel-Sales-and-Finance-Report/blob/main/Sales_Report.pdf)_
 This report enables AtliQ hardware to :   
 * Identify sales patterns and track key performance indicators (KPIs).
 * Monitor and evaluate their sales activities and performance.
@@ -17,6 +17,7 @@ This report assists AtliQ Hardware in analyzing their customers' performance ove
 This report aids AtliQ Hardware in evaluating its performance across various countries and regions, while also tracking targets for the current fiscal year.
 
 ## Finance Report
+_[Finance Report](https://github.com/Sybharath/Excel-Sales-and-Finance-Report/blob/main/Finance_Report.pdf)_
 This report enables AtliQ hardware to:
 * Assess the overall financial health and success of the organization.
 * Compare performance against industry peers and previous periods for better contextual   understanding.
@@ -24,6 +25,7 @@ This report enables AtliQ hardware to:
 * Facilitate negotiations with consumers.
 * Ensure that financial plans are in harmony with the strategic goals of the organization.
 
+_[Finance Assignment Report](https://github.com/Sybharath/Excel-Sales-and-Finance-Report/blob/main/Finance_Assignment_Report.pdf)_
 ### 1. P & L by Year  
 This report assists AtliQ Hardware in analyzing their financial metrics (Net Sales, COGS, Gross Margin, Gross Margin %, etc.) over the last fiscal years.
 
