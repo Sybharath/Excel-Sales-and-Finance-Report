@@ -3,7 +3,7 @@
 Reports created for AtliQ hardware as part of CodeBasics Bootcamp 2.0, Excel : Mother of Business Intelligence Course.
 
 ## Sales Report
-This report enables AtliQ hardware to : https://github.com/Sybharath/Excel-Sales-and-Finance-Report/blob/main/Sales_Report.pdf
+This report enables AtliQ hardware to : _[Sales Report](https://github.com/Sybharath/Excel-Sales-and-Finance-Report/blob/main/Sales_Report.pdf)_
 * Identify sales patterns and track key performance indicators (KPIs).
 * Monitor and evaluate their sales activities and performance.
 * Determine effective customer discounts.
